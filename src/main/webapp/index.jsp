@@ -4,7 +4,7 @@
 <he>shivam</he>
 <p>In this app we are going to deploy things manually</p>
 <p>this is test</p>
-<a href="about.jsp">About page</a>
+<a href="about.jsp">About page</a><br>
 <a href="Services.jsp">Services page</a>
 </body>
 </html>
